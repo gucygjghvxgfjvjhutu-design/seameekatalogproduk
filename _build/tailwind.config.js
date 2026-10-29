@@ -1,0 +1,1 @@
+module.exports=Object.assign({content:['../*.html','../assets/js/main.js']},{theme:{extend:{colors:{dark:'#0F4D2A',deep:'#0A3320',mint:'#CCFFCC',lime:'#99CC33',pale:'#CCFF66',bright:'#99FF00',sage:'#669966',chili:'#FF6B1A',cream:'#FFF8E7',ink:'#1F2A24'},fontFamily:{h:['Anton','Impact','sans-serif'],b:['Plus Jakarta Sans','system-ui','sans-serif']}}}});
